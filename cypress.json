@@ -1,0 +1,10 @@
+{
+    "baseUrl" : "https://gallery-app.vivifyideas.com/",
+    "env" : {
+        "userName" : "andrija123@gmail.com",
+        "password" : "sifra123",
+        "PERCY_TOKEN" : "39e25b8a14cb3aafd94075a4978c61968863b8144a72c38e265ff968b50b323f"
+    },
+    "PERCY_TOKEN" : "39e25b8a14cb3aafd94075a4978c61968863b8144a72c38e265ff968b50b323f"
+    
+}

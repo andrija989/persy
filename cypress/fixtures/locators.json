@@ -1,0 +1,14 @@
+{
+    "navigation" : {
+        "loginButton" : "a[href='/login']",
+        "logoutButton" : ".ml-auto > :nth-child(3) > .nav-link"
+    },
+
+    "loginPage" : {
+        "email" : "input[id='email']",
+        "password" : "input[id='password']",
+        "submitBtn" : "button[type='submit']",
+        "title" : ".title-style",
+        "validationError" : "p[class='alert alert-danger']"
+    }
+}
